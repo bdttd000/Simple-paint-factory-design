@@ -1,5 +1,3 @@
-// TOOLS
-
 class Tool {
     constructor() {
         this.brush = new Brush(10, 'blue')
